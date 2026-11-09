@@ -1,3 +1,5 @@
+// Monday, November 9, 2026 3:41:46 PM    
+// TC : O(n * loglogn) | SC : O(n)
 class Solution {
         public ArrayList<Integer> primeTillN(int n) {
             ArrayList<Integer> res = new ArrayList<>();
