@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **7** | 0 | 7 | 0 | `2026-11-14` |
+| **8** | 0 | 8 | 0 | `2026-11-15` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (7)
+### DSA (8)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,8 +21,9 @@
 | 0003 | [891. Delete the element with value X](./DSA/General/delete-the-element-with-value-x) | [JAVA](./DSA/General/delete-the-element-with-value-x/solution.java) | ⚪ Unspecified | `General` | `2026-11-10` |
 | 0004 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [JAVA](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-11-09` |
 | 0005 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [JAVA](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-11-10` |
-| 0006 | [N Meetings In One Room](./DSA/Greedy/n-meetings-in-one-room) | [JAVA](./DSA/Greedy/n-meetings-in-one-room/solution.java) | ⚪ Unspecified | `Greedy` | `2026-11-14` |
-| 0007 | [836. Print all primes till N](./DSA/General/print-all-primes-till-n) | [JAVA](./DSA/General/print-all-primes-till-n/solution.java) | ⚪ Unspecified | `General` | `2026-11-09` |
+| 0006 | [123. Minimum time taken to burn the BT from a given Node](./DSA/General/minimum-time-taken-to-burn-the-bt-from-a-given-node) | [JAVA](./DSA/General/minimum-time-taken-to-burn-the-bt-from-a-given-node/solution.java) | ⚪ Unspecified | `General` | `2026-11-15` |
+| 0007 | [N Meetings In One Room](./DSA/Greedy/n-meetings-in-one-room) | [JAVA](./DSA/Greedy/n-meetings-in-one-room/solution.java) | ⚪ Unspecified | `Greedy` | `2026-11-14` |
+| 0008 | [836. Print all primes till N](./DSA/General/print-all-primes-till-n) | [JAVA](./DSA/General/print-all-primes-till-n/solution.java) | ⚪ Unspecified | `General` | `2026-11-09` |
 
 ---
 
