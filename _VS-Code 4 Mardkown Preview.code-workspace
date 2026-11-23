@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "git.ignoreLimitWarning": true,
+        "workbench.editorAssociations": {
+            "*.md": "vscode.markdown.preview.editor"
+        }
+    }
+}
